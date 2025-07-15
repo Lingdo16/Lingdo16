@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lingdo 16
-- 👀 I’m interested in operating systems and vlsi
-- 🌱 I’m currently learning operating systems
+- 👋 Hi, I’m @Lingdo
+- 👀 I’m interested in web development and vlsi
+- 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He
